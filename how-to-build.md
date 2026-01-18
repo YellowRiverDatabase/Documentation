@@ -294,7 +294,7 @@ names
 | place\_id | varchar | FK → places.place\_id |
 | est\_year | int |  |
 
-![][image1]
+![diagram](https://raw.githubusercontent.com/YellowRiverDatabase/Documentation/refs/heads/main/er_diagram.svg)
 
 To build the database in an ER model, you should build the base tables of information, then link them together with foreign keys. You could also use these tables as the basis for a graph database.
 
