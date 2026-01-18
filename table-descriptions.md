@@ -1,4 +1,4 @@
-# Table Descriptions
+# Descriptions
 
 **The Tracks of Yu: Spatial Data for Yellow River History** is a data publication hub that accompanies Ruth Mostern’s book [*The Yellow River: A Natural and Unnatural History*](https://yalebooks.yale.edu/book/9780300238334/the-yellow-river/) (Yale University Press, 2021), a three-thousand-year history of China’s Yellow River and the legacy of interactions between humans and the natural landscape. It is a lightly revised version of the data upon which the book was based.
 
